@@ -1,0 +1,24 @@
+﻿  BulletManager.cpp
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\BulletManager.cpp(29,33): warning C4018: '>': signed/unsigned mismatch
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\BulletManager.cpp(56,26): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\BulletManager.cpp(56,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\BulletManager.cpp(56,31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\BulletManager.cpp(56,31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\BulletManager.cpp(60,20): warning C4018: '<': signed/unsigned mismatch
+  GameLoop.cpp
+  Player.cpp
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\Player.cpp(176,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\Player.cpp(181,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  TargetManager.cpp
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\TargetManager.cpp(12,27): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\TargetManager.cpp(12,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\TargetManager.cpp(12,36): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\TargetManager.cpp(12,36): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\TargetManager.cpp(12,45): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\TargetManager.cpp(12,45): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\TargetManager.cpp(12,54): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\SebScaifeShooterGame\TargetManager.cpp(12,54): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\Debug\SebScaifeShooterGame.exe not found or not built by the last incremental link; performing full link
+  SebScaifeShooterGame.vcxproj -> C:\Users\sebsc\Desktop\Uni stuff\Y2S1\c++\milestones-SebboScruff\SebScaifeShooterGame\Debug\SebScaifeShooterGame.exe
